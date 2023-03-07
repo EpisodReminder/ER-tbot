@@ -1,0 +1,17 @@
+{
+  "welcome" : "Добро пожаловать",
+  "sign_in" : "Вы вошли в систему",
+  "back" : "Вы вышли из системы",
+  "unsubscribe_select" : "Выберите сериал от которого хотите отписаться",
+  "unsubscribe" : "Вы отписались от: ",
+  "subscribe_select" : "Напишите сериал на который хотите подписаться",
+  "subscribe" : "Вы подписались на: ",
+  "unsubscribe_all" : "Вы отписались от всех сериалов.",
+  "get_code_button" : "Получить код",
+  "sign_in_button" : "Войти",
+  "back_button" : "Назад",
+  "unsubscribe_button" : "Отписаться от сериала",
+  "unsubscribe_all_button" : "Отписаться от всех сериалов",
+  "subscribe_button" : "Подисаться на сериал",
+  "get_subscribes_list_button" : "Список подписанных сериалов"
+}

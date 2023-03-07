@@ -1,0 +1,3 @@
+from keyboards.register import create_keyboard_register
+from keyboards.main import create_keyboard_main
+from keyboards.unsubscibe import create_unsubscribe_keyboard
